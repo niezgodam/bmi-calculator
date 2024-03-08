@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/niezgodam.github.io/bmi-calculator/static/css/main.3b57b67c.css",
-    "main.js": "/niezgodam.github.io/bmi-calculator/static/js/main.f5db95ca.js",
-    "static/js/787.28cb0dcd.chunk.js": "/niezgodam.github.io/bmi-calculator/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/niezgodam.github.io/bmi-calculator/index.html",
-    "main.3b57b67c.css.map": "/niezgodam.github.io/bmi-calculator/static/css/main.3b57b67c.css.map",
-    "main.f5db95ca.js.map": "/niezgodam.github.io/bmi-calculator/static/js/main.f5db95ca.js.map",
-    "787.28cb0dcd.chunk.js.map": "/niezgodam.github.io/bmi-calculator/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/bmi-calculator/static/css/main.3b57b67c.css",
+    "main.js": "/bmi-calculator/static/js/main.a5e75f4d.js",
+    "static/js/787.28cb0dcd.chunk.js": "/bmi-calculator/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/bmi-calculator/index.html",
+    "main.3b57b67c.css.map": "/bmi-calculator/static/css/main.3b57b67c.css.map",
+    "main.a5e75f4d.js.map": "/bmi-calculator/static/js/main.a5e75f4d.js.map",
+    "787.28cb0dcd.chunk.js.map": "/bmi-calculator/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3b57b67c.css",
-    "static/js/main.f5db95ca.js"
+    "static/js/main.a5e75f4d.js"
   ]
 }
